@@ -21,7 +21,7 @@ h1 {
   background-color: white;
   color: black;
   border-radius: 10px;
-  width: 1000px;
+  width: 300px;
   padding: auto;
   padding: 24px;
   margin: 32px auto;
@@ -99,4 +99,28 @@ img{
 .signature {
 font-family: 'Montez', cursive;
 font-size: 24px
+}
+
+@media (min-width: 524px) {
+ .white-card {
+    width: 420px;
+  }
+}
+
+@media (min-width: 764px) {
+ .white-card {
+    width: 620px;
+  }
+}
+
+@media (min-width: 996px) {
+ .white-card {
+    width: 760px;
+  }
+}
+
+@media (min-width: 1200px) {
+ .white-card {
+    width: 1000px;
+  }
 }
