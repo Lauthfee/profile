@@ -22,7 +22,7 @@ h1 {
   background-color: white;
   color: black;
   border-radius: 10px;
-  width: 300px;
+  width: 1000px;
   padding: 24px;
   margin: 32px auto;
 }
@@ -101,7 +101,7 @@ font-family: 'Montez', cursive;
 font-size: 24px
 }
 
-@media (min-width: 524px) {
+/*@media (min-width: 524px) {
  .white-card {
     width: 420px;
   }
@@ -124,3 +124,4 @@ font-size: 24px
     width: 1000px;
   }
 }
+*/
