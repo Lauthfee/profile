@@ -101,7 +101,7 @@ font-family: 'Montez', cursive;
 font-size: 24px
 }
 
-/*@media (min-width: 524px) {
+@media (min-width: 524px) {
  .white-card {
     width: 420px;
   }
@@ -124,4 +124,4 @@ font-size: 24px
     width: 1000px;
   }
 }
-*/
+
