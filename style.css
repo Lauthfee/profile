@@ -23,9 +23,8 @@ h1 {
   border-radius: 10px;
   width: 1000px;
   padding: auto;
-  display: inline-block;
   padding: 24px;
-  margin: 32px;
+  margin: 32px auto;
 }
 
 .white-card p {
