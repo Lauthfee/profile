@@ -107,26 +107,38 @@ font-size: 24px
 }
 
 @media (min-width: 524px) {
- .white-card {
+  .white-card {
     width: 420px;
+  }
+  .grid {
+     width: 420px;
   }
 }
 
 @media (min-width: 764px) {
- .white-card {
-    width: 620px;
+  .white-card {
+   width: 620px;
+  }
+  .grid {
+     width: 620px;
   }
 }
 
 @media (min-width: 996px) {
- .white-card {
+  .white-card {
     width: 760px;
+  }
+  .grid {
+     width: 720px;
   }
 }
 
 @media (min-width: 1200px) {
- .white-card {
+  .white-card {
     width: 1000px;
+  }
+  .grid {
+     width: 1000px;
   }
 }
 
