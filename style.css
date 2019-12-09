@@ -4,7 +4,7 @@ body {
   background-color: rgb(240,240,240);
   text-align: center;
   /*display: inline-block;*/
-  word-break: break-all;
+  word-break: break-word
 
 }
 
@@ -22,7 +22,7 @@ h1 {
   background-color: white;
   color: black;
   border-radius: 10px;
-  width: 600px;
+  width: 400px;
   padding: 24px;
   margin: 32px auto;
 }
