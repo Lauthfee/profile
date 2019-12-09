@@ -89,6 +89,11 @@ h2 {
   display: inline-block;
 }
 
+.PS {
+  font-size: 9px;
+}
+
+
 img{
   width: 250px;
   height: 250px;
