@@ -123,6 +123,7 @@ font-size: 24px
   -webkit-transition: left 2s;
   -moz-transition: left 2s;
   -o-transition: left 2s;
+  transform-style: none;
 }
 
 .button-container {
